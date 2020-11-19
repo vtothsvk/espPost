@@ -1,0 +1,5 @@
+{
+    "sketch": "espPost.ino",
+    "board": "esp32:esp32:esp32cam",
+    "port": "COM11"
+}
