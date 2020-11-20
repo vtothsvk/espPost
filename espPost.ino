@@ -73,8 +73,8 @@ void setup(){
 
     //koniec
     http.end();
-}
+}//setup
 
 void loop(){
 
-}
+}//loop
