@@ -96,7 +96,7 @@ const char* pass = "sizmajbit";
 const char* serverName = "http://192.168.1.107:1880/espTest";
 ```
 
-7. nahraj a kukaj debug mal by ti prist takyto pekny json
+7. nahraj a kukaj debug
 
 ![Image of debug](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/debug.png)
 
