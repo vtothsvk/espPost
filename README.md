@@ -98,6 +98,6 @@ const char* serverName = "http://192.168.1.107:1880/espTest";
 
 ![Image of debug](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/debug.png)
 
-* mal by ti tam nabehnut takyto zazrak
+* mal by ti tam nabehnut takyto zazrak ked ESP posle request
 
 ![Image of message](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/payload.png)
