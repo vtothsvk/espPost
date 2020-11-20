@@ -2,12 +2,16 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-/** Nastav si wifi credentiali podla svojho
+/** Wifi credentials
+ * 
+ *  @note nastav si podla svojho
  */
 const char* ssid = "Fyzika-je-lahka";
 const char* pass = "12serenada12";
 
 /** url requestu
+ * 
+ *  @note nastav si podla sojej IP
  */
 const char* serverName = "http://192.168.1.107:1880/espTest";
 
