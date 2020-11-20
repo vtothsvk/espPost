@@ -1,7 +1,7 @@
 # ESP32 HTTP POST test
 ## Files
 * **espPost.ino** - arduino projekt s post examplom
-* **node-red/esp_flow.json** - node-red flow pre spracovanie post requestu
+* **node-red/espFlow.json** - node-red flow pre spracovanie post requestu
 
 ## Postup
 1. pustis node-red commandom `node-red`
@@ -65,7 +65,7 @@ file using your chosen key the next time you deploy a change.
 
 ![Image of Select file](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/select_file.png)
 
-* **dany json najdes na repe node-red/esp_post.json**
+* **dany json najdes na repe node-red/espFlow.json**
 
 ![Image of Import flow](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/import_file.png)
 
