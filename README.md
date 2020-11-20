@@ -90,6 +90,8 @@ const char* pass = "sizmajbit";
 /** url requestu
  * 
  *  @note nastav si podla sojej IP
+ *  @note na porte 1880 bezi node-red nativvne, tj port nemen
+ *  @note /espTest endpoint je dany "http in" nodom v node-rede (tym vlavo) keby si ho chcel nahodou zmenit
  */
 const char* serverName = "http://192.168.1.107:1880/espTest";
 ```
