@@ -65,14 +65,16 @@ file using your chosen key the next time you deploy a change.
 
 ![Image of Select file](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/select_file.png)
 
-**dany json najdes na repe node-red/esp_post.json**
+* **dany json najdes na repe node-red/esp_post.json**
 
 ![Image of Import flow](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/import_file.png)
 
-mal by ti tam naskocit tieto nody
+* mal by ti tam naskocit tieto nody
+
 ![Image of flow](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/flow.png)
 
 5. deploy
+
 ![Image of Deploy](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/deploy.png)
 
 6. prejdi si kod a dopln/prepis co treba
@@ -93,6 +95,9 @@ const char* serverName = "http://192.168.1.107:1880/espTest";
 ```
 
 7. nahraj a kukaj debug mal by ti prist takyto pekny json
+
 ![Image of debug](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/debug.png)
-mal by ti tam nabehnut takyto zazrak
+
+* mal by ti tam nabehnut takyto zazrak
+
 ![Image of message](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/payload.png)
