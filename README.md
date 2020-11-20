@@ -3,7 +3,7 @@
 * **espPost.ino** - arduino projekt s post examplom
 * **node-red/esp_flow.json** - node-red flow pre spracovanie post requestu
 
-## Node-red
+## Postup
 1. pustis node-red commandom `node-red`
 
 *v terminali*
