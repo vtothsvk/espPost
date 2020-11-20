@@ -53,7 +53,7 @@ file using your chosen key the next time you deploy a change.
 20 Nov 00:25:00 - [info] Started flows
 ```
 
-3. otvoris si node-red v prehliadaci **local_ip/1880** eg. 192.168.1.107:1880
+3. otvoris si node-red v prehliadaci **local_ip:1880** eg. 192.168.1.107:1880
 
 4. importujes si esp_flow.json
 
