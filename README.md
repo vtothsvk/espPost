@@ -14,7 +14,12 @@ C:\Users\USERNAME> node-red
 2. otvoris si node-red v prehliadaci **local_ip/1880** eg. 192.168.1.107:1880
 
 3. importujes si esp_flow.json
-
+![Image of Menu](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/menu.png)
+![Image of Import](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/import.png)
+![Image of Click select file](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/click_select.png)
+![Image of Select file](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/select_file.png)
+**dany json najdes na repe node-red/esp_post.json**
+![Image of Import flow](https://raw.githubusercontent.com/vtothsvk/espPost/main/images/import_file.png)
 4. prejdi si kod a dopln/prepis co treba
 
 ```C++
