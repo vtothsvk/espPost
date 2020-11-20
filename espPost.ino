@@ -18,7 +18,7 @@ const char* pass = "sizmajbit";
 const char* serverName = "http://192.168.1.107:1880/espTest";
 
 
-/** Vyber si payload aky chces je ich tu viac lebo som cerpal z mojho kodu na test zavyslost casu odosielania
+/** Vyber si payload aky chces je ich tu viac lebo som cerpal z mojho kodu na test zavyslosti casu odosielania
  *  od velkosti requestu
  */
 //2kb payload
