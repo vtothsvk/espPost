@@ -7,7 +7,7 @@
  *  @note nastav si podla svojho
  */
 const char* ssid = "Fyzika-je-lahka";
-const char* pass = "12serenada12";
+const char* pass = "sizmajbit";
 
 /** url requestu
  * 
